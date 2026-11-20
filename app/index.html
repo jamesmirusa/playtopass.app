@@ -4175,7 +4175,7 @@ const PRO = (() => {
     if (q.get('checkout') === 'success') {
       history.replaceState(null, '', location.pathname);
       toast(R2('Спасибо! Открываем Pro…', 'Thank you! Unlocking Pro…'));
-      let n = 0; const tick = async () => { await refresh(true); if (!st.pro && ++n < 8) setTimeout(tick, 2500); else if (st.pro) { toast(R2('Pro открыт. Удачи на экзамене!', 'Pro is unlocked. Good luck on your exam!')); celebrate && celebrate(document.body); } };
+      let n = 0; const tick = async () => { await refresh(true); if (!st.pro && ++n < 16) setTimeout(tick, 3000); else if (st.pro) { toast(R2('Pro открыт. Удачи на экзамене!', 'Pro is unlocked. Good luck on your exam!')); celebrate && celebrate(document.body); } else toast(R2('Оплата прошла. Pro откроется в течение пары минут — обновите страницу. Если не открылся, нажмите «Восстановить доступ» в настройках.', 'Payment received. Pro will unlock within a couple of minutes — refresh the page. If it doesn’t, use “Restore access” in Settings.')); };
       tick();
     } else if (!CFG().ownerMode) setTimeout(() => refresh(true), 1200);
     const pw = q.get('pw'); if (pw && !CFG().ownerMode) { if (LINKS[pw]) sel = pw; history.replaceState(null, '', location.pathname); setTimeout(() => paywall('bank'), 900); }
