@@ -157,5 +157,6 @@ footer .row{display:flex;gap:18px;flex-wrap:wrap;align-items:center}footer a{col
 <script>(function(){var p=null;try{p=localStorage.getItem('ptp_lang')}catch(e){}
 document.querySelectorAll('[data-setlang]').forEach(function(a){a.addEventListener('click',function(){try{localStorage.setItem('ptp_lang',a.getAttribute('data-setlang'))}catch(e){}})});
 if(!p&&(navigator.language||'').slice(0,2)==='ru'&&!/[?&]lang=en/.test(location.search))location.replace('/ru/'+location.hash);})();</script>
+<script defer src="/t.js"></script>
 </body>
 </html>
