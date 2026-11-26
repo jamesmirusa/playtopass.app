@@ -17,6 +17,7 @@ https://playtopass.app/questions/autoimmune-lymphoproliferative-syndrome-defecti
 https://playtopass.app/questions/autosomal-recessive-recurrence-risk-cystic-fibrosis/
 https://playtopass.app/questions/barrett-esophagus-intestinal-metaplasia-as-a-reversible/
 https://playtopass.app/questions/basal-cell-carcinoma-hedgehog-pathway-and-smoothened/
+https://playtopass.app/questions/burkitt-lymphoma-t-8-14-places-myc-next-to-the/
 https://playtopass.app/questions/carbon-monoxide-poisoning-oxygen-content-and-dissociation/
 https://playtopass.app/questions/case-control-study-calculating-the-odds-ratio/
 https://playtopass.app/questions/choosing-a-statistical-test-one-way-anova-to-compare-means/
@@ -27,6 +28,7 @@ https://playtopass.app/questions/common-variable-immunodeficiency-low-igg-and-ig
 https://playtopass.app/questions/complete-hydatidiform-mole-androgenetic-46-xx-and-very-high/
 https://playtopass.app/questions/conduction-aphasia-arcuate-fasciculus-lesion-with-fluent/
 https://playtopass.app/questions/conjugate-polysaccharide-vaccines-t-cell-dependent-response/
+https://playtopass.app/questions/cross-sectional-study-exposure-and-outcome-measured-at-one/
 https://playtopass.app/questions/cryptococcal-meningitis-flucytosine-mechanism-conversion-to/
 https://playtopass.app/questions/diabetic-ketoacidosis-with-hypokalemia-potassium-before/
 https://playtopass.app/questions/disclosure-of-a-medication-error-to-the-patient/
@@ -34,7 +36,10 @@ https://playtopass.app/questions/drug-induced-hyperkalemia-with-ecg-changes-imme
 https://playtopass.app/questions/early-localized-lyme-disease-treat-erythema-migrans-with/
 https://playtopass.app/questions/empiric-therapy-for-community-acquired-bacterial-meningitis/
 https://playtopass.app/questions/erectile-dysfunction-in-a-man-taking-long-acting-nitrates/
+https://playtopass.app/questions/exogenous-anabolic-steroids-negative-feedback-suppresses-lh/
+https://playtopass.app/questions/fever-cytokine-induced-prostaglandin-e2-raises-the/
 https://playtopass.app/questions/follicular-lymphoma-t-14-18-bcl-2-blocks-intrinsic-apoptosis/
+https://playtopass.app/questions/foodborne-botulism-toxin-protease-cleaves-snare-proteins-and/
 https://playtopass.app/questions/giant-cell-arteritis-with-transient-monocular-vision-loss-iv/
 https://playtopass.app/questions/gilbert-syndrome-mildly-reduced-ugt1a1-activity-causing/
 https://playtopass.app/questions/guillain-barr-syndrome-serial-vital-capacity-monitoring-and/
@@ -70,6 +75,7 @@ https://playtopass.app/questions/men1-menin-mutation-with-parathyroid-hyperplasi
 https://playtopass.app/questions/midgut-malrotation-with-volvulus-incomplete-270-rotation/
 https://playtopass.app/questions/mild-asthma-gina-track-1-as-needed-low-dose-budesonide/
 https://playtopass.app/questions/mitochondrial-inheritance-affected-men-do-not-transmit-mtdna/
+https://playtopass.app/questions/myasthenia-gravis-autoantibodies-against-postsynaptic/
 https://playtopass.app/questions/myasthenic-crisis-elective-intubation-for-falling-vital/
 https://playtopass.app/questions/necrotizing-soft-tissue-infection-emergency-surgical/
 https://playtopass.app/questions/neuroleptic-malignant-syndrome-dopamine-d2-blockade/
@@ -94,6 +100,7 @@ https://playtopass.app/questions/plaque-psoriasis-parakeratosis-munro-microabsce
 https://playtopass.app/questions/positive-predictive-value-and-the-effect-of-prevalence-2-2/
 https://playtopass.app/questions/postpartum-hemorrhage-from-uterine-atony-uterine-massage-and/
 https://playtopass.app/questions/precision-reliability-versus-accuracy-validity-consistent/
+https://playtopass.app/questions/romantic-invitation-from-a-current-patient-decline-and-keep/
 https://playtopass.app/questions/sarcoidosis-hypercalcemia-from-macrophage-1-alpha/
 https://playtopass.app/questions/secondary-hyperparathyroidism-in-chronic-kidney-disease/
 https://playtopass.app/questions/severe-obstructive-sleep-apnea-continuous-positive-airway/
@@ -102,7 +109,10 @@ https://playtopass.app/questions/simple-febrile-seizure-in-a-well-appearing-todd
 https://playtopass.app/questions/simvastatin-rhabdomyolysis-after-clarithromycin-cyp3a4/
 https://playtopass.app/questions/sleep-terrors-nrem-stage-n3-delta-wave-parasomnia/
 https://playtopass.app/questions/supraspinatus-tear-empty-can-test-and-suprascapular-nerve/
+https://playtopass.app/questions/surgical-neck-fracture-of-the-humerus-axillary-nerve-injury/
 https://playtopass.app/questions/surrogate-decision-making-advance-directive-and-designated/
+https://playtopass.app/questions/suspected-elder-abuse-in-a-patient-with-dementia-report-to/
+https://playtopass.app/questions/suspected-lymphoma-persistent-lymphadenopathy-with-b/
 https://playtopass.app/questions/suspected-subacute-infective-endocarditis-three-blood/
 https://playtopass.app/questions/suspicious-pigmented-lesion-full-thickness-excisional-biopsy/
 https://playtopass.app/questions/symptomatic-prolactinoma-dopamine-agonist-cabergoline-as/
@@ -135,6 +145,7 @@ https://playtopass.app/ru/voprosy/autoimmune-lymphoproliferative-syndrome-defect
 https://playtopass.app/ru/voprosy/autosomal-recessive-recurrence-risk-cystic-fibrosis/
 https://playtopass.app/ru/voprosy/barrett-esophagus-intestinal-metaplasia-as-a-reversible/
 https://playtopass.app/ru/voprosy/basal-cell-carcinoma-hedgehog-pathway-and-smoothened/
+https://playtopass.app/ru/voprosy/burkitt-lymphoma-t-8-14-places-myc-next-to-the/
 https://playtopass.app/ru/voprosy/carbon-monoxide-poisoning-oxygen-content-and-dissociation/
 https://playtopass.app/ru/voprosy/case-control-study-calculating-the-odds-ratio/
 https://playtopass.app/ru/voprosy/choosing-a-statistical-test-one-way-anova-to-compare-means/
@@ -145,6 +156,7 @@ https://playtopass.app/ru/voprosy/common-variable-immunodeficiency-low-igg-and-i
 https://playtopass.app/ru/voprosy/complete-hydatidiform-mole-androgenetic-46-xx-and-very-high/
 https://playtopass.app/ru/voprosy/conduction-aphasia-arcuate-fasciculus-lesion-with-fluent/
 https://playtopass.app/ru/voprosy/conjugate-polysaccharide-vaccines-t-cell-dependent-response/
+https://playtopass.app/ru/voprosy/cross-sectional-study-exposure-and-outcome-measured-at-one/
 https://playtopass.app/ru/voprosy/cryptococcal-meningitis-flucytosine-mechanism-conversion-to/
 https://playtopass.app/ru/voprosy/diabetic-ketoacidosis-with-hypokalemia-potassium-before/
 https://playtopass.app/ru/voprosy/disclosure-of-a-medication-error-to-the-patient/
@@ -152,7 +164,10 @@ https://playtopass.app/ru/voprosy/drug-induced-hyperkalemia-with-ecg-changes-imm
 https://playtopass.app/ru/voprosy/early-localized-lyme-disease-treat-erythema-migrans-with/
 https://playtopass.app/ru/voprosy/empiric-therapy-for-community-acquired-bacterial-meningitis/
 https://playtopass.app/ru/voprosy/erectile-dysfunction-in-a-man-taking-long-acting-nitrates/
+https://playtopass.app/ru/voprosy/exogenous-anabolic-steroids-negative-feedback-suppresses-lh/
+https://playtopass.app/ru/voprosy/fever-cytokine-induced-prostaglandin-e2-raises-the/
 https://playtopass.app/ru/voprosy/follicular-lymphoma-t-14-18-bcl-2-blocks-intrinsic-apoptosis/
+https://playtopass.app/ru/voprosy/foodborne-botulism-toxin-protease-cleaves-snare-proteins-and/
 https://playtopass.app/ru/voprosy/giant-cell-arteritis-with-transient-monocular-vision-loss-iv/
 https://playtopass.app/ru/voprosy/gilbert-syndrome-mildly-reduced-ugt1a1-activity-causing/
 https://playtopass.app/ru/voprosy/guillain-barr-syndrome-serial-vital-capacity-monitoring-and/
@@ -188,6 +203,7 @@ https://playtopass.app/ru/voprosy/men1-menin-mutation-with-parathyroid-hyperplas
 https://playtopass.app/ru/voprosy/midgut-malrotation-with-volvulus-incomplete-270-rotation/
 https://playtopass.app/ru/voprosy/mild-asthma-gina-track-1-as-needed-low-dose-budesonide/
 https://playtopass.app/ru/voprosy/mitochondrial-inheritance-affected-men-do-not-transmit-mtdna/
+https://playtopass.app/ru/voprosy/myasthenia-gravis-autoantibodies-against-postsynaptic/
 https://playtopass.app/ru/voprosy/myasthenic-crisis-elective-intubation-for-falling-vital/
 https://playtopass.app/ru/voprosy/necrotizing-soft-tissue-infection-emergency-surgical/
 https://playtopass.app/ru/voprosy/neuroleptic-malignant-syndrome-dopamine-d2-blockade/
@@ -212,6 +228,7 @@ https://playtopass.app/ru/voprosy/plaque-psoriasis-parakeratosis-munro-microabsc
 https://playtopass.app/ru/voprosy/positive-predictive-value-and-the-effect-of-prevalence-2-2/
 https://playtopass.app/ru/voprosy/postpartum-hemorrhage-from-uterine-atony-uterine-massage-and/
 https://playtopass.app/ru/voprosy/precision-reliability-versus-accuracy-validity-consistent/
+https://playtopass.app/ru/voprosy/romantic-invitation-from-a-current-patient-decline-and-keep/
 https://playtopass.app/ru/voprosy/sarcoidosis-hypercalcemia-from-macrophage-1-alpha/
 https://playtopass.app/ru/voprosy/secondary-hyperparathyroidism-in-chronic-kidney-disease/
 https://playtopass.app/ru/voprosy/severe-obstructive-sleep-apnea-continuous-positive-airway/
@@ -220,7 +237,10 @@ https://playtopass.app/ru/voprosy/simple-febrile-seizure-in-a-well-appearing-tod
 https://playtopass.app/ru/voprosy/simvastatin-rhabdomyolysis-after-clarithromycin-cyp3a4/
 https://playtopass.app/ru/voprosy/sleep-terrors-nrem-stage-n3-delta-wave-parasomnia/
 https://playtopass.app/ru/voprosy/supraspinatus-tear-empty-can-test-and-suprascapular-nerve/
+https://playtopass.app/ru/voprosy/surgical-neck-fracture-of-the-humerus-axillary-nerve-injury/
 https://playtopass.app/ru/voprosy/surrogate-decision-making-advance-directive-and-designated/
+https://playtopass.app/ru/voprosy/suspected-elder-abuse-in-a-patient-with-dementia-report-to/
+https://playtopass.app/ru/voprosy/suspected-lymphoma-persistent-lymphadenopathy-with-b/
 https://playtopass.app/ru/voprosy/suspected-subacute-infective-endocarditis-three-blood/
 https://playtopass.app/ru/voprosy/suspicious-pigmented-lesion-full-thickness-excisional-biopsy/
 https://playtopass.app/ru/voprosy/symptomatic-prolactinoma-dopamine-agonist-cabergoline-as/
