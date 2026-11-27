@@ -17,14 +17,17 @@ https://playtopass.app/questions/autoimmune-lymphoproliferative-syndrome-defecti
 https://playtopass.app/questions/autosomal-recessive-recurrence-risk-cystic-fibrosis/
 https://playtopass.app/questions/barrett-esophagus-intestinal-metaplasia-as-a-reversible/
 https://playtopass.app/questions/basal-cell-carcinoma-hedgehog-pathway-and-smoothened/
+https://playtopass.app/questions/biotin-deficiency-from-raw-egg-whites-avidin-impaired/
 https://playtopass.app/questions/burkitt-lymphoma-t-8-14-places-myc-next-to-the/
 https://playtopass.app/questions/carbon-monoxide-poisoning-oxygen-content-and-dissociation/
 https://playtopass.app/questions/case-control-study-calculating-the-odds-ratio/
 https://playtopass.app/questions/choosing-a-statistical-test-one-way-anova-to-compare-means/
 https://playtopass.app/questions/chronic-aortic-regurgitation/
+https://playtopass.app/questions/chronic-asymptomatic-siadh-hyponatremia-in-an-older-adult/
 https://playtopass.app/questions/chronic-granulomatous-disease-lifelong-trimethoprim/
 https://playtopass.app/questions/cisplatin-toxicity-ototoxicity-nephrotoxicity-hypomagnesemia/
 https://playtopass.app/questions/common-variable-immunodeficiency-low-igg-and-iga-with-poor/
+https://playtopass.app/questions/competent-patient-with-als-requests-withdrawal-of-mechanical/
 https://playtopass.app/questions/complete-hydatidiform-mole-androgenetic-46-xx-and-very-high/
 https://playtopass.app/questions/conduction-aphasia-arcuate-fasciculus-lesion-with-fluent/
 https://playtopass.app/questions/conjugate-polysaccharide-vaccines-t-cell-dependent-response/
@@ -52,6 +55,7 @@ https://playtopass.app/questions/heritable-pulmonary-arterial-hypertension-inact
 https://playtopass.app/questions/high-altitude-acclimatization-acetazolamide-induces/
 https://playtopass.app/questions/high-risk-febrile-neutropenia-after-aml-induction-empiric-iv/
 https://playtopass.app/questions/hyperosmolar-hyperglycemic-state-isotonic-saline-before/
+https://playtopass.app/questions/idiopathic-pulmonary-fibrosis-with-uip-pattern-antifibrotic/
 https://playtopass.app/questions/inferior-stemi-with-right-ventricular-infarction-and/
 https://playtopass.app/questions/influenza-a-antigenic-shift-reassortment-of-segmented-rna/
 https://playtopass.app/questions/initial-nonsevere-clostridioides-difficile-infection/
@@ -124,6 +128,7 @@ https://playtopass.app/questions/tumor-lysis-syndrome-rasburicase-mechanism-and-
 https://playtopass.app/questions/turner-syndrome-primary-amenorrhea-from-accelerated-oocyte/
 https://playtopass.app/questions/ureteral-injury-during-uterine-artery-ligation-at/
 https://playtopass.app/questions/vaccination-before-elective-splenectomy-pneumococcal/
+https://playtopass.app/questions/vitiligo-autoimmune-cd8-t-cell-destruction-of-melanocytes/
 https://playtopass.app/questions/von-willebrand-disease-type-1-desmopressin-releases-von/
 https://playtopass.app/questions/warfarin-induced-skin-necrosis-early-protein-c-depletion/
 https://playtopass.app/ru/
@@ -145,14 +150,17 @@ https://playtopass.app/ru/voprosy/autoimmune-lymphoproliferative-syndrome-defect
 https://playtopass.app/ru/voprosy/autosomal-recessive-recurrence-risk-cystic-fibrosis/
 https://playtopass.app/ru/voprosy/barrett-esophagus-intestinal-metaplasia-as-a-reversible/
 https://playtopass.app/ru/voprosy/basal-cell-carcinoma-hedgehog-pathway-and-smoothened/
+https://playtopass.app/ru/voprosy/biotin-deficiency-from-raw-egg-whites-avidin-impaired/
 https://playtopass.app/ru/voprosy/burkitt-lymphoma-t-8-14-places-myc-next-to-the/
 https://playtopass.app/ru/voprosy/carbon-monoxide-poisoning-oxygen-content-and-dissociation/
 https://playtopass.app/ru/voprosy/case-control-study-calculating-the-odds-ratio/
 https://playtopass.app/ru/voprosy/choosing-a-statistical-test-one-way-anova-to-compare-means/
 https://playtopass.app/ru/voprosy/chronic-aortic-regurgitation/
+https://playtopass.app/ru/voprosy/chronic-asymptomatic-siadh-hyponatremia-in-an-older-adult/
 https://playtopass.app/ru/voprosy/chronic-granulomatous-disease-lifelong-trimethoprim/
 https://playtopass.app/ru/voprosy/cisplatin-toxicity-ototoxicity-nephrotoxicity-hypomagnesemia/
 https://playtopass.app/ru/voprosy/common-variable-immunodeficiency-low-igg-and-iga-with-poor/
+https://playtopass.app/ru/voprosy/competent-patient-with-als-requests-withdrawal-of-mechanical/
 https://playtopass.app/ru/voprosy/complete-hydatidiform-mole-androgenetic-46-xx-and-very-high/
 https://playtopass.app/ru/voprosy/conduction-aphasia-arcuate-fasciculus-lesion-with-fluent/
 https://playtopass.app/ru/voprosy/conjugate-polysaccharide-vaccines-t-cell-dependent-response/
@@ -180,6 +188,7 @@ https://playtopass.app/ru/voprosy/heritable-pulmonary-arterial-hypertension-inac
 https://playtopass.app/ru/voprosy/high-altitude-acclimatization-acetazolamide-induces/
 https://playtopass.app/ru/voprosy/high-risk-febrile-neutropenia-after-aml-induction-empiric-iv/
 https://playtopass.app/ru/voprosy/hyperosmolar-hyperglycemic-state-isotonic-saline-before/
+https://playtopass.app/ru/voprosy/idiopathic-pulmonary-fibrosis-with-uip-pattern-antifibrotic/
 https://playtopass.app/ru/voprosy/inferior-stemi-with-right-ventricular-infarction-and/
 https://playtopass.app/ru/voprosy/influenza-a-antigenic-shift-reassortment-of-segmented-rna/
 https://playtopass.app/ru/voprosy/initial-nonsevere-clostridioides-difficile-infection/
@@ -252,5 +261,6 @@ https://playtopass.app/ru/voprosy/tumor-lysis-syndrome-rasburicase-mechanism-and
 https://playtopass.app/ru/voprosy/turner-syndrome-primary-amenorrhea-from-accelerated-oocyte/
 https://playtopass.app/ru/voprosy/ureteral-injury-during-uterine-artery-ligation-at/
 https://playtopass.app/ru/voprosy/vaccination-before-elective-splenectomy-pneumococcal/
+https://playtopass.app/ru/voprosy/vitiligo-autoimmune-cd8-t-cell-destruction-of-melanocytes/
 https://playtopass.app/ru/voprosy/von-willebrand-disease-type-1-desmopressin-releases-von/
 https://playtopass.app/ru/voprosy/warfarin-induced-skin-necrosis-early-protein-c-depletion/
