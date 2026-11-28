@@ -193,7 +193,7 @@ const hcq = window.HeyCatchQ || []; window.HeyCatchQ = {push: c => { try { analy
 </div></footer>
 <script>(function(){var p=null;try{p=localStorage.getItem('ptp_lang')}catch(e){}
 document.querySelectorAll('[data-setlang]').forEach(function(a){a.addEventListener('click',function(){try{localStorage.setItem('ptp_lang',a.getAttribute('data-setlang'))}catch(e){}})});
-if(!p&&(navigator.language||'').slice(0,2)==='ru'&&!/[?&]lang=en/.test(location.search))location.replace('/ru/'+location.hash);})();</script>
+if(!p&&(navigator.language||'').slice(0,2)==='ru'&&!/[?&]lang=en/.test(location.search))location.replace('/ru/'+location.search+location.hash);})();</script>
 <script>
 /* Black Friday 2026: shown only before the real deadline; the countdown is a clock, never restarted.
    The leave-page reminder appears at most once per browser, on desktop only, and closes with one click or Esc. */
