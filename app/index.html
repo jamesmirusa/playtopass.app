@@ -1723,7 +1723,16 @@ const BOTS = [{id:'intern',ru:'Бот-интерн',en:'Intern bot',acc:.55,r:90
 
 /* ============ state & persistence ============ */
 const LS = 'usmle-trainer-v2';
-function fresh() { return {v:2, updated:0, lang:'ru', contentLang:null, theme:'auto', sound:true, glossary:true, conf:true, font:17, retain:0.9, nick:'',
+/* first-run language: ?lang= → choice made on the landing (ptp_lang) → came from a /ru/ page → browser language */
+function initLang() {
+  try {
+    const q = new URLSearchParams(location.search).get('lang'); if (q === 'ru' || q === 'en') return q;
+    const p = localStorage.getItem('ptp_lang'); if (p === 'ru' || p === 'en') return p;
+    const r = document.referrer ? new URL(document.referrer) : null; if (r && r.origin === location.origin && /^\/ru(\/|$)/.test(r.pathname)) return 'ru';
+  } catch (e) {}
+  return /^ru\b/i.test(navigator.language || '') ? 'ru' : 'en';
+}
+function fresh() { return {v:2, updated:0, lang:initLang(), contentLang:null, theme:'auto', sound:true, glossary:true, conf:true, font:17, retain:0.9, nick:'',
   qstats:{}, cards:{}, marked:{}, xp:0, streak:{n:0,last:null}, freezes:1, days:{}, tests:[], ach:{}, daily:{}, bosses:{}, cardNew:{}, revCount:0,
   elo:{}, qelo:{}, duel:{r:1000,w:0,l:0}, quests:{day:null,list:[],claimed:false}, events:{}, weekXp:{wk:null,xp:0}, feyn:0, qrep:{}}; }
 function load() {
